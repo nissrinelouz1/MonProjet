@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="contact_aliasa">#e64242</color>
+    <color name="contact_aliasb">#62bc41</color>
+    <color name="contact_aliasc">#213169</color>
+    <color name="contact_aliasd">#55c198</color>
+    <color name="contact_aliase">#15992b</color>
+    <color name="contact_aliasf">#c4a141</color>
+    <color name="contact_aliasg">#770a86</color>
+    <color name="contact_aliash">#a3d235</color>
+    <color name="contact_aliasi">#ff19c9</color>
+    <color name="contact_aliasj">#125f9e</color>
+
+
+</resources>
